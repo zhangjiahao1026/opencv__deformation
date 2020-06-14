@@ -6,3 +6,5 @@ Nonrigid deformation using opencv
 
 ## Result
 <img src="https://github.com/zhangjiahao1026/opencv__deformation/blob/master/1_gt.png" hspace="10" wspace="10" width="400"/> <img src="https://github.com/zhangjiahao1026/opencv__deformation/blob/master/res_1.png" hspace="10" wspace="10"  width="400" />
+<br>
+<img src="https://github.com/zhangjiahao1026/opencv__deformation/blob/master/2_gt.png" hspace="10" wspace="10" width="400"/> <img src="https://github.com/zhangjiahao1026/opencv__deformation/blob/master/res_2.png" hspace="10" wspace="10"  width="400" />

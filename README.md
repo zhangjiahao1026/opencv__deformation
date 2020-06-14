@@ -5,4 +5,4 @@ Nonrigid deformation using opencv
 - [x] Using TPS(Thin Plate Spline) to nonrigid deformation
 
 ## Result
-![Source Image](https://github.com/zhangjiahao1026/opencv__deformation/blob/master/1_gt.png)![result](https://github.com/zhangjiahao1026/opencv__deformation/blob/master/res_1.png)
+<img src="https://github.com/zhangjiahao1026/opencv__deformation/blob/master/1_gt.png" /><img src="https://github.com/zhangjiahao1026/opencv__deformation/blob/master/res_1.png">
